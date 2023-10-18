@@ -1,3 +1,5 @@
+practice line
+
 # Terraform on Azure Reference Architecture
 
 This repository helps you to implement Infrastructure as Code best practices using Terraform and Microsoft Azure.
